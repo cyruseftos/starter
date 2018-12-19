@@ -45,6 +45,7 @@
     "@babel/preset-typescript": "^7.1.0",
     "@babel/register": "^7.0.0",
     "@types/jest": "^23.3.10",
+    "@types/jest-image-snapshot": "^2.4.0",
     "@types/node": "^10.12.15",
     "babel-core": "^6.26.3",
     "babel-jest": "^23.6.0",
